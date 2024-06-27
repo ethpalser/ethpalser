@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, I'm Ethan Palser
+
+- 🖥️ I have been coding in Java for 3 years (excluding university)
+- 📓 I am currently learning Python and Golang for back end development with [Boot.dev](https://www.boot.dev/)
+- 🎮 I am periodically learning Game Design, during my spare time
+- 💝 I am passionate about designing systems, customization and procedurally-generated content
+- 🤔 I am looking to collaborate on video games (to learn) or my other passions
 
 <!--
 **ethpalser/ethpalser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
