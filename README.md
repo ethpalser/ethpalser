@@ -1,9 +1,9 @@
 ## Hello, I'm Ethan Palser
 
-- 🖥️ I have been coding in Java for 3 years
+- 🖥️ I have been coding primarily in Java throughout my education and career.
 - 📓 I'm currently learning Python and Golang for back end development with [Boot.dev](https://www.boot.dev/)
-- 🎮 I'm periodically learning Game Design, during my spare time
 - 💝 I'm passionate about designing systems, customization, procedurally-generated content, and helping people be happy
+- 🎮 I'm periodically learning Game Design, during my spare time
 - 🤔 I'm looking to collaborate on video games (to learn) or my other passions
 
 <!--
